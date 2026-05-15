@@ -1,0 +1,14 @@
+# 데이터
+*.tar.gz
+data/
+ckpts/
+.safetensors
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# 환경
+.env
+*.egg-info/
